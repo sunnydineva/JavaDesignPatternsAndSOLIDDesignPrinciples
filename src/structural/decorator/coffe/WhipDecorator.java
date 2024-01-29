@@ -1,4 +1,4 @@
-package decorator;
+package structural.decorator.coffe;
 
 public class WhipDecorator extends CoffeeDecorator{
     public WhipDecorator(Coffee coffee) {

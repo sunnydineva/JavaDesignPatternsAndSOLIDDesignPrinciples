@@ -1,7 +1,7 @@
-import decorator.Coffee;
-import decorator.MilkDecorator;
-import decorator.SimpleCoffee;
-import decorator.WhipDecorator;
+import structural.decorator.coffe.Coffee;
+import structural.decorator.coffe.MilkDecorator;
+import structural.decorator.coffe.SimpleCoffee;
+import structural.decorator.coffe.WhipDecorator;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.

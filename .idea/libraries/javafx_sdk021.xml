@@ -2,12 +2,19 @@
   <library name="javafx-sdk021">
     <CLASSES>
       <root url="file://$USER_HOME$/Programs/javafx-sdk-21/lib" />
+      <root url="file://$USER_HOME$/Downloads" />
     </CLASSES>
     <JAVADOC />
     <NATIVE>
       <root url="file://$USER_HOME$/Programs/javafx-sdk-21/lib" />
     </NATIVE>
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads" />
+      <root url="file://$USER_HOME$/Downloads/sunny/builder_inner/udemy-design-patterns-handson/src" />
+      <root url="file://$USER_HOME$/Downloads/sunny/udemy-design-patterns-handson/src" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/Programs/javafx-sdk-21/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
   </library>
 </component>

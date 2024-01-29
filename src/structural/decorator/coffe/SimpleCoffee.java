@@ -1,4 +1,4 @@
-package decorator;
+package structural.decorator.coffe;
 
 public class SimpleCoffee implements Coffee{
     @Override
