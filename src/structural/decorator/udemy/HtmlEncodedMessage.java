@@ -6,7 +6,7 @@ import org.apache.commons.lang3.StringEscapeUtils;
 public class HtmlEncodedMessage implements Message
 {
     private Message msg; //the concrete component that we need
-
+//Provide object to be decorated
     public HtmlEncodedMessage(Message msg)
     {
         this.msg = msg;
